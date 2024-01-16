@@ -1,0 +1,5 @@
+import random
+
+list = (7,2,8,10,6,8,9)
+list_total = sum(list)
+print(list_total)
