@@ -1,0 +1,4 @@
+list = [int(x) for x in input('Enter 5 values: ').split(',')]
+numbers = print('The list of numbers: ', list)
+total = sum(list)
+print(f'The sum of the list is: {total}')
